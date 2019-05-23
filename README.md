@@ -1,5 +1,7 @@
 # a-frame-android-Eclipse
-a-frame v 0.7.x : 0.9.x  
+
+
+Tested a-frame v 0.7.x to 0.9.x on android App 
 
 
 
