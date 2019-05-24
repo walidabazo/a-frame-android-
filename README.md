@@ -1,4 +1,4 @@
-# a-frame-android-Eclipse
+# aframe WebVR - android by Eclipse
 
 
 Tested a-frame v 0.7.x to 0.9.x on android App 
