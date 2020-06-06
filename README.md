@@ -42,3 +42,8 @@ https://github.com/aframevr/aframe
 		xWalkWebView.load("file:///android_asset/index.html", null);
 		// turn on debugging
 		XWalkPreferences.setValue(XWalkPreferences.REMOTE_DEBUGGING, true);
+
+
+## Can be start web Augmented reality
+
+Https://Webxr.edafait.com
